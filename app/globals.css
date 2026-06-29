@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-feature-settings: "ss01", "cv11";
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: theme("fontFamily.display");
+    letter-spacing: -0.012em;
+    line-height: 1.08;
+  }
+
+  ::selection {
+    background-color: rgba(140, 91, 55, 0.22);
+    color: #182127;
+  }
+
+  .dark ::selection {
+    background-color: rgba(196, 135, 88, 0.32);
+    color: #ECF0EA;
+  }
+}

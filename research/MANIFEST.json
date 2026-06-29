@@ -1,0 +1,98 @@
+[
+  {
+    "slot": "hero",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/hero.jpg",
+    "size": 201605,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/gc428b8987a1b89894c8b0deb493a29891cba5a2e9e82cef58ee99369b9983e6fd272329997c31327641aaba1b2c89e6365155da2cc4be0fc190bacf0a4342d2d_1280.jpg"
+  },
+  {
+    "slot": "problem-cad",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/problem-cad.jpg",
+    "size": 546043,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/g41afd3a0901eb092012ad077f3d4170a899e9c1e81ccfc00cb488da1e963336dcebd711c6f9d2763ee14664da9bdd1d778fdbb44d520d0e2dba23d460509b005_1280.jpg"
+  },
+  {
+    "slot": "problem-warp",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/problem-warp.jpg",
+    "size": 201605,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/gbd9f547824b67e7ed592562045034628762b701c8d6e3f1f7ef3afa95e7a8f27d76503ed26ccc08ec5ea54f819396abf7669f3a698576d97e63491b05484b9ae_1280.jpg"
+  },
+  {
+    "slot": "materials-grid-1",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/materials-grid-1.jpg",
+    "size": 250253,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/gced06cd341ed3fe96020a53258b2a0e8b7003212db04ef01c73791d9ee9206f553325cc9bcdf5ca6d57897e3b2bc45cc2ce8f3b2bbeba79b69623d9bb29bb65c_1280.jpg"
+  },
+  {
+    "slot": "materials-grid-2",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/materials-grid-2.jpg",
+    "size": 229481,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/ged504ecd753f8b15c0d91c7edb02f42a117fc4ed8522921cad9af3e0778dfe2d0afb266f34c9371ef1280aa3b890631f_1280.jpg"
+  },
+  {
+    "slot": "materials-grid-3",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/materials-grid-3.jpg",
+    "size": 335860,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/g68b2be6985afb76e3e028bcbe5b561e57944ca1e34528c1fdf1c6d95dda1a1a1ffb1d96fe05cb5d62249a848c518841b352cd1cc63e13d2a800aa7926cf528d1_1280.jpg"
+  },
+  {
+    "slot": "materials-grid-4",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/materials-grid-4.jpg",
+    "size": 587078,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/ga392929f4c99b7af2384e045c8d6f8b3c743dfe50e7c86c0a1be6f8efc696d2be6575de69c17f752d84ae3dae3156da6d13a2fd3311d552801922b2203ea2f61_1280.jpg"
+  },
+  {
+    "slot": "process-1",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/process-1.jpg",
+    "size": 194269,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/g4261db6834a0da3c3fd1f5b3befe0b4413565a9aca9dfd07251925e8fa84bb3607e95f6b53c55569dc66c4ac0218486afb802d8592f70d9ea9b06e476f2201c3_1280.jpg"
+  },
+  {
+    "slot": "process-2",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/process-2.jpg",
+    "size": 214556,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/gee0253d6eaa55a8e40cd23b253a72bb911ef6e4c85a96865ca9550d1cc5796c90870115a0c731c5aecd442bb4d8b0350c3004402d39406bbe1aca28ad214d029_1280.jpg"
+  },
+  {
+    "slot": "process-3",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/process-3.jpg",
+    "size": 454236,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/gb5b48fc63b3fa3f72c98f610f57bd2225657084721bdedd8cdb2ec576bbce26fe05e66b7d188c3fbf82424fcd8d473c9dd5b49dea316c0f0f551740d719f1fed_1280.png"
+  },
+  {
+    "slot": "cta-wearable-calipers",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/cta-wearable-calipers.jpg",
+    "size": 89598,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/gbf4d779d65fe6149a91fa0aeafb67b97c488e90e884ed1357a488b5bfab34965218450af9d96391b61f3a78426ef9521c692fc4ddcb4decd8bb52c287179bea0_1280.jpg"
+  },
+  {
+    "slot": "logo",
+    "status": "ok",
+    "path": "/tmp/adv3d-product-dev-images/research/images/logo.jpg",
+    "size": 294657,
+    "source": "pixabay",
+    "url": "https://pixabay.com/get/g827e42ea9d8d07c33ae815db74681ffb2d8c910521cf41575c7d58b4d2225ecd3525a3bafa0f6f302ac625809b70086b0bb52a1c11e1864d4bea7c501f608d4b_1280.jpg"
+  }
+]
