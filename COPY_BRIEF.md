@@ -1,96 +1,139 @@
-# COPY_BRIEF — Advanc3D Product Development & Prototyping Funnel
+# COPY_BRIEF
 
-> Source of truth: brief.md + source copy + brand/visual spec.
-> Voice: founder-to-founder technical credibility.
-> Hero headline: From CAD File to Functional Prototype — Without the 6-Week Wait.
-> Image mode: real_images_required (no placeholders).
+## 1. HERO
 
-## Global copy rules
-- Keep the page to exactly 5 content sections in this order: HERO, THE BOTTLENECK (PROBLEM), WHY US, HOW IT WORKS (PROCESS), FINAL CTA.
-- Preserve the exact hero headline, CTA strings, hero trust line, and trust footer.
-- Sound like a US-based engineering partner speaking to founders and product leads under timeline pressure.
-- Use direct, materials-fluent language: CAD file, DFM, design-for-manufacturability, functional prototype, material selection, pilot production, and related decision language should feel natural.
-- Keep the copy calm, specific, and engineering-grade; avoid generic SaaS phrasing or hype.
-- Use only the validated local image slots listed below; no placeholder language and no implied filler imagery.
-- Keep blocked positioning terms out of all copy outside the explicit audit section.
+- Eyebrow: `ADVANC3D PRODUCT DEVELOPMENT`
+- Headline: `From CAD File to Functional Prototype — Without the 6-Week Wait.`
+- Subheadline:
+  `Move from CAD file to functional prototype before the next investor meeting, design review, or bench testing cycle.`
+  `Get DFM and design-for-manufacturability feedback, engineering-grade material selection, and a quote in 24 hours, with biocompatible options and a clear pilot production path.`
+- Primary CTA: `Book a Discovery Call`
+- Secondary CTA: `Upload Your Project Files → Get a Quote in 24 Hours`
+- Trust line: `NDA-ready. US-based. HP MJF, SLA, FDM, and TPU in-house.`
+- Image slot: `research/images/hero.jpg`
+- Designer note: Left-align the full text stack. Use a framed right-column image panel with warm workshop light.
 
-## Section 1 — HERO
-**Eyebrow:** `ADVANC3D PRODUCT DEVELOPMENT`
-**Headline:** From CAD File to Functional Prototype — Without the 6-Week Wait.
-**Subheadline:** Upload a CAD file, get DFM-aware feedback and a quote in 24 hours, and move into a functional prototype with engineering-grade materials, biocompatible options, and a clear path to pilot production.
-**Primary CTA:** `Book a Discovery Call`
-**Secondary CTA:** `Upload Your Project Files → Get a Quote in 24 Hours`
-**Trust line beneath CTAs:** `NDA-ready. US-based. HP MJF, SLA, FDM, and TPU in-house.`
-**Image slot used:** `research/images/hero.jpg`
-**Notes for designer:** Left-align everything. Keep the image in a framed right-column panel with visible machine detail and warm workshop light. The subheadline should read in two short lines, not as a long marketing block.
+## 2. THE BOTTLENECK (PROBLEM)
 
-## Section 2 — THE BOTTLENECK (PROBLEM)
-**Section label / eyebrow:** `THE BOTTLENECK`
-**Section headline:** Most Contract Manufacturers Are Built for Volume. Your Prototype Isn't.
-**Body copy:** Early-stage medical device work does not move in a straight line. You review the first concept, change the CAD file, tighten a tolerance, rethink material selection, and need the next prototype in hand before the next investor meeting or bench test. Volume-oriented vendors slow that loop down. Surface these four friction points clearly: they quote as if the design is already frozen; they push order minimums that do not fit early iteration; they limit material options in ways that raise failure risk during testing; and they print what was submitted without the DFM feedback that could have prevented the next revision.
-**Image slots used:** `research/images/problem-cad.jpg`, `research/images/problem-warp.jpg`
-**Notes for designer:** Let the copy lead. Use the two images as supporting evidence panels beneath or beside the text, with the CAD image higher in hierarchy than the secondary process image. This section should feel tighter and more pressurized than the hero.
+- Section label: `THE BOTTLENECK`
+- Headline: `Most Production Vendors Are Built for Volume. Your Prototype Isn't.`
+- Body copy:
+  `Early-stage medical device development does not follow a linear path. It cycles. You validate a concept, find a flaw, redesign overnight, and need the next iteration in your hands before your investor meeting or your next review milestone.`
 
-## Section 3 — WHY US
-**Section label / eyebrow:** `WHY US`
-**Section headline:** Built for Iteration. Priced for Early Stage. Ready for Production.
-**Lead pillar card:** Design Collaboration — Start with a CAD file, STEP, or STL and get real design-for-manufacturability input before the build starts. Advanc3D should sound like an engineering-grade partner that can talk through DFM, tolerances, design controls, and production-intent decisions without slowing the schedule down.
-**Supporting pillar 1:** Material Flexibility — Match HP MJF, SLA, FDM, or TPU to the part instead of forcing the part to match the machine. Call out material selection, end-use testing needs, biocompatible options, and FDA- or ISO 13485-aware conversations where relevant.
-**Supporting pillar 2:** Short-Run Production — The same team that gets the first functional prototype out the door should be able to support short runs and pilot production for a medical device program that is moving toward validation.
-**Image slots used:** `research/images/materials-grid-1.jpg`, `research/images/materials-grid-2.jpg`, `research/images/materials-grid-3.jpg`, `research/images/materials-grid-4.jpg`
-**Notes for designer:** Use the asymmetric large-card plus stacked-card structure from the visual spec. Treat the four materials images as a restrained mosaic, not a hero moment. Copy should carry the credibility; imagery should reinforce texture, process, and material realism.
+  `Most production vendors are built for settled programs, not fast iteration. The friction usually shows up in four places:`
 
-## Section 4 — HOW IT WORKS (PROCESS)
-**Section label / eyebrow:** `HOW IT WORKS`
-**Section headline:** Four Steps From Concept to Production-Intent Part
-**Step 1:** Upload files or a design brief — Accept a CAD file, STEP, STL, or a concise brief so the process feels accessible to both file-ready teams and founders who still need technical guidance.
-**Step 2:** Review and response within 24 hours — Return pricing, DFM feedback, material selection guidance, and a clear read on tolerances, biocompatible options, and design controls considerations for FDA-facing programs.
-**Step 3:** Approval and build — Once approved, Advanc3D builds with HP MJF, SLA, FDM, or TPU based on the engineering-grade or end-use requirement, not whichever process is easiest to sell.
-**Step 4:** Parts arrive ready for testing — Deliver the functional prototype ready for bench testing, team review, or the next iteration, with a visible bridge into short-run work and pilot production.
-**Image slots used:** `research/images/process-1.jpg`, `research/images/process-2.jpg`, `research/images/process-3.jpg` (Step 4 intentionally text-only per VISUAL_SPEC.md SECTION E.)
-**Notes for designer:** Keep this orderly and low-drama. Assign the three process images to steps 1 through 3 only; step 4 should stand on copy, numeric label, and layout rhythm. Avoid a decorative timeline treatment.
+  `A long quote process that assumes finalized engineering drawings instead of a working CAD file or a fast STL or STEP handoff.`
 
-## Section 5 — FINAL CTA
-**Section headline:** Your Next Iteration Shouldn't Take 6 Weeks.
-**Lede paragraph:** If the CAD file is ready, the next step should not be another long quoting loop. Send the file or book the call, get a quote in 24 hours, and work with a US-based, NDA-ready team that can move from functional prototype to pilot production without losing momentum.
-**Primary CTA:** `Book a Discovery Call`
-**Secondary CTA:** `Upload Your Project Files → Get a Quote in 24 Hours`
-**Trust footer:** `US-based | HP MJF + SLA + FDM + TPU | NDA-ready | Short-run & pilot production | Biocompatible materials available`
-**Image slot used:** `research/images/cta-wearable-calipers.jpg`
-**Notes for designer:** Pair the closing copy with the caliper image as a precision proof cue, not a background wash. This section should feel decisive and conversion-ready, with the trust footer close enough to the CTAs to remove last-minute hesitation.
+  `MOQ pressure that turns a short-run validation build into a larger buy before the design is ready.`
 
-## Q10 inversion coverage
-- production-grade: not needed
-- engineering-grade: covered in §1, §3, §4
-- biocompatible: covered in §1, §3, §4, §5
-- FDA: covered in §3, §4
-- ISO 13485: covered in §3
-- design controls: covered in §3, §4
-- pilot production: covered in §1, §3, §5
-- NDA-ready: covered in §1, §5
-- CAD file: covered in §1, §2, §3, §4, §5
-- DFM: covered in §1, §2, §3, §4
-- functional prototype: covered in §1, §3, §4, §5
-- quote in 24 hours: covered in §1, §5
-- material selection: covered in §2, §3, §4
+  `Material limitations that compromise mechanical performance when you need engineering-grade or biocompatible options.`
 
-## Forbidden words audit
-- industrial: OK — not used
-- aerospace: OK — not used
-- automotive: OK — not used
-- hobby / maker / drone / cosplay / Warhammer: OK — not used
-- mass production: OK — not used
-- tooling fees: OK — not used
-- contract manufacturer: OK — not used
-- production line: OK — not used
-- Tier 1: OK — not used
+  `No DFM feedback on tolerances, wall thickness, or support strategy, even when a small design change would prevent delamination.`
+- Image slots:
+  `research/images/problem-cad.jpg`
+  `research/images/problem-warp.jpg`
+- Designer note: Copy leads. The images should read as supporting evidence, not as decorative balance.
 
-## Sources used
-- brief.md
-- /home/codex/builds/adv3d_product_dev_funnel_copy.md
-- BRAND_DIRECTION.md
-- VISUAL_SPEC.md
-- research/REFERENCES.md
-- research/VALIDATED_IMAGES.md
+## 3. WHY US
 
-Note: the declared source-copy file path above was not present on disk in this workspace during authoring, so the section-level phrasing was reconstructed from the locked brief, brand/visual specs, and adjacent Adv3D funnel artifacts while preserving the required strings and structure.
+- Section label: `WHY US`
+- Headline: `Built for Iteration. Priced for Early Stage. Ready for Production.`
+- Lead pillar card:
+  - Title: `Design Collaboration`
+  - Copy: `The team reviews the part, not just the file. Advanc3D combines additive manufacturing speed with actual part review, so DFM issues, tolerance risks, design controls, and material selection are flagged before the machine starts. Feedback makes the next version better, not just a print of what was submitted. For a medical device team, that review stays fluent in FDA language and ISO 13485 expectations.`
+- Supporting pillar 1:
+  - Title: `Material Flexibility`
+  - Copy: `HP MJF nylon for structural components. TPU at calibrated shore hardness for soft interfaces. SLA for fine-detail validation models, and FDM for fast early geometry checks. Biocompatible-grade options are available for patient-contact needs. Material is matched to function, not to what is already loaded in the machine, whether the goal is a functional prototype, an end-use part, or other production-grade performance.`
+- Supporting pillar 2:
+  - Title: `Short-Run Production`
+  - Copy: `No MOQ. No gated quote process. One prototype or fifty pilot units can move through the same documented workflow. When the team is ready to scale, Advanc3D scales with it through short-run output, pilot production, and production-intent iteration.`
+- Image slots:
+  `research/images/materials-grid-1.jpg`
+  `research/images/materials-grid-2.jpg`
+  `research/images/materials-grid-3.jpg`
+  `research/images/materials-grid-4.jpg`
+- Designer note: Use an asymmetric large-card plus stacked-card composition with a restrained materials mosaic.
+
+## 4. HOW IT WORKS (PROCESS)
+
+- Section label: `HOW IT WORKS`
+- Headline: `Four Steps From Concept to Production-Intent Part`
+- Step 1:
+  - Title: `Upload files or a design brief`
+  - Copy: `Send an STL, STEP, or CAD file, or give a plain description of what the part needs to do.`
+- Step 2:
+  - Title: `Review and response within 24 hours`
+  - Copy: `Get DFM feedback, a design-for-manufacturability check, material recommendation, lead time, and a quote in 24 hours.`
+- Step 3:
+  - Title: `Approval and build`
+  - Copy: `Once approved, parts move into build with progress updates, not silence. Typical lead time is 3–7 business days depending on geometry, process, and quantity.`
+- Step 4:
+  - Title: `Parts arrive ready for testing`
+  - Copy: `Parts arrive post-processing complete, finished, and documented so your team can move straight into bench testing, clinical validation, or the next investor demo.`
+- Image slots:
+  - Step 1: `research/images/process-1.jpg`
+  - Step 2: `research/images/process-2.jpg`
+  - Step 3: `research/images/process-3.jpg`
+  - Step 4: `Text-only per VISUAL_SPEC.md SECTION E`
+- Designer note: Keep the layout orderly and low-drama. Do not use a decorative timeline.
+
+## 5. FINAL CTA
+
+- Section label: `FINAL CTA`
+- Headline: `Your Next Iteration Shouldn't Take 6 Weeks.`
+- Lede paragraph: `Tell us what you're building, where the risk is, and what deadline matters. We'll tell you what is possible, which process fits, and when you can have a functional prototype in hand, with an NDA-ready partner that can stay with you into pilot production.`
+- Primary CTA: `Book a Discovery Call`
+- Secondary CTA: `Upload Your Project Files → Get a Quote in 24 Hours`
+- Trust footer: `US-based | HP MJF + SLA + FDM + TPU | NDA-ready | Short-run & pilot production | Biocompatible materials available`
+- Image slot: `research/images/cta-wearable-calipers.jpg`
+- Designer note: Use the caliper image as a precision proof cue with a decisive, conversion-ready feel.
+
+## Q10 Inversion Coverage Matrix
+
+| Required phrase | Section(s) |
+|---|---|
+| `production-grade` | WHY US |
+| `engineering-grade` | HERO, THE BOTTLENECK (PROBLEM) |
+| `end-use` | WHY US |
+| `biocompatible` | HERO, THE BOTTLENECK (PROBLEM), WHY US, FINAL CTA |
+| `FDA` | WHY US |
+| `ISO 13485` | WHY US |
+| `design controls` | WHY US |
+| `pilot production` | HERO, WHY US, FINAL CTA |
+| `NDA-ready` | HERO, FINAL CTA |
+| `medical device` | THE BOTTLENECK (PROBLEM), WHY US |
+| `prototype` | HERO, THE BOTTLENECK (PROBLEM), WHY US, FINAL CTA |
+| `functional prototype` | HERO, WHY US, FINAL CTA |
+| `CAD file` | HERO, THE BOTTLENECK (PROBLEM), HOW IT WORKS (PROCESS) |
+| `additive manufacturing` | WHY US |
+| `DFM` | HERO, THE BOTTLENECK (PROBLEM), WHY US, HOW IT WORKS (PROCESS) |
+| `design-for-manufacturability` | HERO, HOW IT WORKS (PROCESS) |
+| `production-intent` | WHY US, HOW IT WORKS (PROCESS) |
+| `material selection` | HERO, WHY US |
+
+## Forbidden Words Audit
+
+| Forbidden phrase | Status |
+|---|---|
+| `industrial` | Absent from rendered copy outside this audit section |
+| `aerospace` | Absent from rendered copy outside this audit section |
+| `automotive` | Absent from rendered copy outside this audit section |
+| `hobby` | Absent from rendered copy outside this audit section |
+| `maker` | Absent from rendered copy outside this audit section |
+| `drone` | Absent from rendered copy outside this audit section |
+| `cosplay` | Absent from rendered copy outside this audit section |
+| `Warhammer` | Absent from rendered copy outside this audit section |
+| `mass production` | Absent from rendered copy outside this audit section |
+| `tooling fees` | Absent from rendered copy outside this audit section |
+| `contract manufacturer` | Absent from rendered copy outside this audit section |
+| `production line` | Absent from rendered copy outside this audit section |
+| `Tier 1` | Absent from rendered copy outside this audit section |
+
+## Sources Used
+
+- `brief.md`
+- `SOURCE_COPY.md`
+- `BRAND_DIRECTION.md`
+- `VISUAL_SPEC.md`
+- `research/REFERENCES.md`
+- `research/VALIDATED_IMAGES.md`
